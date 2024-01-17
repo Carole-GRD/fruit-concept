@@ -22,19 +22,19 @@ body{
 }
 
 #about{
-    background-image: linear-gradient(to bottom right, rgba(255,255,255,.6),rgba(255,255,255,.9)), url("../images/Groseilles.jpg");
+    background-image: linear-gradient(to bottom right, rgba(255,255,255,.6),rgba(255,255,255,.9)), url("../Images/Groseilles.jpg");
 }
 
 #commandes{
-    background-image: linear-gradient(to bottom right, rgba(255,255,255,.6),rgba(255,255,255,.9)), url("../images/Fruits\ Rouges.jpg");
+    background-image: linear-gradient(to bottom right, rgba(255,255,255,.6),rgba(255,255,255,.9)), url("../Images/Fruits\ Rouges.jpg");
 }
 
 #comments{
-    background-image: linear-gradient(to bottom right, rgba(255,255,255,.6),rgba(255,255,255,.9)), url("../images/Raisins.jpg");
+    background-image: linear-gradient(to bottom right, rgba(255,255,255,.6),rgba(255,255,255,.9)), url("../Images/Raisins.jpg");
 }
 
 #contact{
-    background-image: linear-gradient(to bottom right, rgba(255,255,255,.6),rgba(255,255,255,.9)), url("../images/Prunes02.jpg");
+    background-image: linear-gradient(to bottom right, rgba(255,255,255,.6),rgba(255,255,255,.9)), url("../Images/Prunes02.jpg");
 }
 
 
